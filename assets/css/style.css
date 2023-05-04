@@ -1,0 +1,55 @@
+@media screen and (min-width: 1200px) {
+    body {
+    zoom: 70%;
+    padding: 0px 100px;
+    }
+    .container{
+    width: 500px;
+    height: 750px;
+
+    }
+    }
+@media screen and (max-width: 1000px){
+    body{
+        zoom: 150%;
+    }
+}
+body{
+    /* zoom: 200%; */
+    /* padding: 10px 50px; */
+    max-width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    margin-top: 5%;
+}
+  input{
+      height: 45px;
+      width: 120px;
+      font-size: 20px;
+      /* font-weight: bolder; */
+  }
+ #display{
+      width: 475px;
+      height: 200px !important;
+      padding: 10px;
+      font-size: 50px !important;
+ }
+  .container{
+     background-color: black;
+     width: 500px;
+     padding: 50px;
+     margin: auto;
+     display: block;
+     height: 100%;
+  
+  }
+  #ac{
+      background-color: red;
+      color: white;
+  }
+  #c{
+      background-color: blue;
+      color: white;
+  }
+
+    
